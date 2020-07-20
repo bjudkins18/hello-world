@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
 
-Hello!
+Hello! My name is bailey.
 
 I just ate some chicken wings.
